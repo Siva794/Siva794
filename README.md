@@ -57,4 +57,4 @@ Created a full-stack web application to manage academic and administrative data.
 - **Email:** ksivanagendraprasad@gmail.com
 - **LinkedIn:** www.linkedin.com/in/k-siva-nagendra-prasad
 - **GitHub:** www.github.com/Siva794
-- **Portfolio:** www.ksivanagendra.ccbp.tech
+- **Portfolio:** https://ksivanagendra.ccbp.tech/
