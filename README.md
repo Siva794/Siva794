@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Siva 👋
 
-<!--
-**Siva794/Siva794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **B.Tech Computer Science (Artificial Intelligence & Machine Learning)** student at **SRM Institute of Science and Technology** with a strong interest in building practical AI and computer vision solutions.
 
-Here are some ideas to get you started:
+I enjoy working on real-world problems using machine learning, deep learning, and modern frameworks, and I actively build projects to strengthen my fundamentals and applied skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Areas of Interest
+- Machine Learning & Deep Learning  
+- Computer Vision  
+- AI-powered applications  
+- Data-driven problem solving  
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**  
+HTML, CSS, JavaScript, Python, Java, C++, SQL  
+
+**Machine Learning & Deep Learning**  
+Machine Learning, Deep Learning, CNNs  
+
+**Frameworks & Libraries**  
+TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib  
+
+**Tools & Platforms**  
+Git, GitHub, Linux, Docker, Kaggle, VS Code  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Deepfake Detection
+Developed a deep learning-based system to detect manipulated facial images using CNN architectures.  
+**Tech:** Python, TensorFlow, Keras, OpenCV
+
+### 🔹 Real-Time Vehicle Speed Detection
+Built a computer vision system to detect and estimate vehicle speed in real-time using object detection models.  
+**Tech:** Python, YOLOv8, OpenCV
+
+### 🔹 University Management System
+Created a full-stack web application to manage academic and administrative data.  
+**Tech:** Python, MySQL, HTML, CSS
+
+---
+
+## 📜 Certifications
+- Oracle Certified Foundations Associate  
+- Microsoft Certified: Azure Fundamentals  
+- Static & Responsive Development Certifications (NxtWave)
+
+---
+
+## 📫 Contact
+- **Email:** ksivanagendraprasad@gmail.com
+- **LinkedIn:** www.linkedin.com/in/k-siva-nagendra-prasad
+- **GitHub:** github.com/Siva794
